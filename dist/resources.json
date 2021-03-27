@@ -1,0 +1,197 @@
+{
+    "resources": [
+        {
+            "name": "data/hierarchicalJSONData.json"
+        },
+        {
+            "name": "i18n/i18n_en.properties",
+            "raw": "i18n/i18n.properties",
+            "locale": "_en"
+        },
+        {
+            "name": "manifest.json"
+        },
+        {
+            "name": "localService/OnRequestSet.json"
+        },
+        {
+            "name": "i18n/i18n.properties",
+            "raw": "i18n/i18n.properties"
+        },
+        {
+            "name": "model/models.js"
+        },
+        {
+            "name": "model/errorHandling.js"
+        },
+        {
+            "name": "localService/mockserver.js"
+        },
+        {
+            "name": "libs/moment.js"
+        },
+        {
+            "name": "controller/utilities.js"
+        },
+        {
+            "name": "controller/View1.controller.js"
+        },
+        {
+            "name": "controller/SelectEmployeePromotion.controller.js"
+        },
+        {
+            "name": "controller/SelectDialog1.js"
+        },
+        {
+            "name": "controller/ListDataPromotion.controller.js"
+        },
+        {
+            "name": "controller/Home.controller.js"
+        },
+        {
+            "name": "controller/Dialog1.js"
+        },
+        {
+            "name": "controller/DetailRequestPromotion.controller.js"
+        },
+        {
+            "name": "controller/CreateNewPromotion.controller.js"
+        },
+        {
+            "name": "serviceBinding.js"
+        },
+        {
+            "name": "Component.js"
+        },
+        {
+            "name": "manifest-bundle.zip"
+        },
+        {
+            "name": "Component-preload.js",
+            "merged": true
+        },
+        {
+            "name": "controller/CreateNewPromotion-dbg.controller.js",
+            "isDebug": true
+        },
+        {
+            "name": "model/models-dbg.js",
+            "isDebug": true
+        },
+        {
+            "name": "model/errorHandling-dbg.js",
+            "isDebug": true
+        },
+        {
+            "name": "localService/mockserver-dbg.js",
+            "isDebug": true
+        },
+        {
+            "name": "libs/moment-dbg.js",
+            "isDebug": true
+        },
+        {
+            "name": "controller/utilities-dbg.js",
+            "isDebug": true
+        },
+        {
+            "name": "controller/View1-dbg.controller.js",
+            "isDebug": true
+        },
+        {
+            "name": "controller/SelectEmployeePromotion-dbg.controller.js",
+            "isDebug": true
+        },
+        {
+            "name": "controller/SelectDialog1-dbg.js",
+            "isDebug": true
+        },
+        {
+            "name": "controller/ListDataPromotion-dbg.controller.js",
+            "isDebug": true
+        },
+        {
+            "name": "controller/Home-dbg.controller.js",
+            "isDebug": true
+        },
+        {
+            "name": "controller/Dialog1-dbg.js",
+            "isDebug": true
+        },
+        {
+            "name": "controller/DetailRequestPromotion-dbg.controller.js",
+            "isDebug": true
+        },
+        {
+            "name": "serviceBinding-dbg.js",
+            "isDebug": true
+        },
+        {
+            "name": "Component-dbg.js",
+            "isDebug": true
+        },
+        {
+            "name": "../../sap-ui-version.json"
+        },
+        {
+            "name": "neo-app.json"
+        },
+        {
+            "name": "di.code-validation.core_issues.json"
+        },
+        {
+            "name": "view/ValueHelpDialog/ValueHelpSelectPosition.fragment.xml"
+        },
+        {
+            "name": "view/ValueHelpDialog/ValueHelpSelectOrgKey.fragment.xml"
+        },
+        {
+            "name": "view/ValueHelpDialog/ValueHelpSelectGolongan.fragment.xml"
+        },
+        {
+            "name": "view/ValueHelpDialog/ValueHelpSelectEmployee.fragment.xml"
+        },
+        {
+            "name": "view/ValueHelpDialog/SelectEmployee.fragment.xml"
+        },
+        {
+            "name": "localService/ZHCM_PROMOSI_SRV/metadata.xml"
+        },
+        {
+            "name": "view/View1.view.xml"
+        },
+        {
+            "name": "view/SelectEmployeePromotion.view.xml"
+        },
+        {
+            "name": "view/SelectDialog1.fragment.xml"
+        },
+        {
+            "name": "view/ListDataPromotion.view.xml"
+        },
+        {
+            "name": "view/Home.view.xml"
+        },
+        {
+            "name": "view/Dialog1.fragment.xml"
+        },
+        {
+            "name": "view/DetailRequestPromotion.view.xml"
+        },
+        {
+            "name": "view/CreateNewPromotion.view.xml"
+        },
+        {
+            "name": "localService/metadata.xml"
+        },
+        {
+            "name": "css/style.css"
+        },
+        {
+            "name": "WEB-INF/web.xml"
+        },
+        {
+            "name": "index.html"
+        }
+    ]
+}
